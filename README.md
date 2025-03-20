@@ -1,0 +1,1 @@
+This project is solely based on the development of an automated SMS scheduling system for scheduling appointments for a particular date/time and reminding the user/recipient automatically by SMS notifications of upcoming appointments.
