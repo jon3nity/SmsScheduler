@@ -259,7 +259,7 @@ fun LandingPage(onSchedulesClick: () -> Unit, onNewScheduleClick: () -> Unit) {
         Spacer(modifier = Modifier.height(16.dp))
 
         Text(
-            text = "Developed by Chinedu Onyekachi",
+            text = "Developed by Chinedu",
             style = MaterialTheme.typography.bodySmall,
             textAlign = TextAlign.Center
         )
