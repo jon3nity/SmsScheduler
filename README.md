@@ -216,12 +216,6 @@ Academic project demonstrating mobile development capabilities.
 
 ---
 
-## License
-
-MIT License - Copyright (c) 2024 John Onyekachi
-
----
-
 ## Acknowledgments
 
 **Technologies:** Android Open Source Project, Jetpack Compose, Material Design, Kotlin
